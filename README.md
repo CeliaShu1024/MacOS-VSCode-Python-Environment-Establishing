@@ -1,4 +1,6 @@
+# Establishing MacOS VSCode Python Environment
 This is a record of my MacOS VSCode installation and configuration for establishing python environment. It is firstly posted on CSDN Forum: https://blog.csdn.net/qq_41415890/article/details/126208376?spm=1001.2014.3001.5501
+
 My system versions were `Monterey` and `Big Sur`. This method is verified by these two MacOS versions, but I don't know whether it's available for other MacOS versions. 
 The software or extensions used in this methods are `terminal.app`, `Homebrew`, `zlib`, `pyenv`, `vim`, `PyPI` and `visual-studio-code`.
 ## Step 1: Install Homebrew
